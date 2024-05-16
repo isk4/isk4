@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ![isk4's GitHub Stats](https://github-readme-stats-nine-zeta-53.vercel.app/api/top-langs/?username=isk4&hide=slim,html,css,scss&theme=tokyonight&custom_title=isk4's%20Most%20Used%20Languages)
+ ![isk4's GitHub Stats](https://github-readme-stats-nine-zeta-53.vercel.app/api/top-langs/?username=isk4&hide=slim,html,css,scss&theme=dark&custom_title=isk4's%20Most%20Used%20Languages)
 
 <!--
 **isk4/isk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
